@@ -268,7 +268,7 @@ img { max-width: 100%; }
 }
 
 #snow{
-    background-image: url('http://www.wearewebstars.dk/codepen/img/s1.png'), url('http://www.wearewebstars.dk/codepen/img//s2.png'), url('http://www.wearewebstars.dk/codepen/img//s3.png');
+    background-image: url('../img/s1.png'), url('../img/s2.png'), url('../img/s3.png');
     -webkit-animation: snow 10s linear infinite;
     -moz-animation: snow 10s linear infinite;
     -ms-animation: snow 10s linear infinite;
